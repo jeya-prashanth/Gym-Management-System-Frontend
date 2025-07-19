@@ -30,3 +30,22 @@ A comprehensive frontend web application built to manage gym memberships, class 
   - React Router
   - React icons
   - React toastify 
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/jeya-prashanth/Gym-Management-System-Frontend.git
+   cd GYM_Management_System
+
+2. **Frontend Setup**
+   ```bash
+   cd frontend
+   npm install
+
+### Running the Application
+
+1. **Start the frontend development server**
+   ```bash
+   cd frontend
+   npm run dev
