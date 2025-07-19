@@ -41,7 +41,7 @@ A comprehensive frontend web application built to manage gym memberships, class 
 2. **Frontend Setup**
    ```bash
    cd frontend
-   npm install
+   npm install react-router-dom axios react-icons react-toastify jwt-decode
 
 ### Running the Application
 
