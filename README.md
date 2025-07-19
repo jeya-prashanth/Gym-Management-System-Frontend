@@ -41,7 +41,8 @@ A comprehensive frontend web application built to manage gym memberships, class 
 2. **Frontend Setup**
    ```bash
    cd frontend
-   npm install react-router-dom axios react-icons react-toastify jwt-decode
+   npm install axios react-icons react-router-dom react-toastify
+   npm install tailwindcss @tailwindcss/vite
 
 ### Running the Application
 
