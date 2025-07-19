@@ -23,8 +23,10 @@ A comprehensive frontend web application built to manage gym memberships, class 
 - Check visit history
 - View and book classes
 
-- **Frontend**: 
+- **Frontend dependencies**: 
   - React.js
   - Vite
   - Tailwind CSS
   - React Router
+  - React icons
+  - React toastify 
